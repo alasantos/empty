@@ -1,5 +1,5 @@
 
---configuração do GIT
+## configuração do GIT
 
 O arquivo oculto ~/.gitconfig armazena as informações de configuração do usuario atual na raiz do seu HOMEDIR
 
@@ -17,7 +17,7 @@ git config --global [--list] => lista as configurações atuais
 - uma conta possui um nome de usuario e senha, contudo para determinadas operações, por exemplo: git push, é necessario informar também um token gerado a partir das suas credenciais básicas (user e senha) do site.
 
 
--- Autenticação via Token
+## Autenticação via Token
 
     O token é gerado através da conta do usuario no github, na configuração Developer settings (tokens classic).
 
