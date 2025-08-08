@@ -1,5 +1,5 @@
 
-## configuração do GIT
+## configuração do GIT (atualizado na web)
 
 O arquivo oculto ~/.gitconfig armazena as informações de configuração do usuario atual na raiz do seu HOMEDIR
 
